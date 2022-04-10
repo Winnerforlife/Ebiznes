@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/stanislav/IdeaProjects/untitled/project/Common.scala:27:19: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash[0m
+[0m[[0m[33mwarn[0m] [0m[0m    scalacOptions in Test ++= Seq("-Yrangepos"),[0m
+[0m[[0m[33mwarn[0m] [0m[0m                  ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
